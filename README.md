@@ -3,3 +3,15 @@ Can I make it any more obvious? Here you'll find conceptual notes I've taken on 
 
 ## DNS
 https://github.com/pkurchanov/dns
+
+## HTTP
+
+## UDP
+
+## TCP
+
+## IP
+
+## ICMP
+
+## ARP
